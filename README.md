@@ -1,1 +1,2 @@
-<h1>HELLO THIS IS A SIMPLE FIB FUNCTION TO PRACTICE RECURSION</h1>
+# Hello this is a simple fib function that generates  return 
+# nth term of fib by recursion
