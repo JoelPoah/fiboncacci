@@ -1,2 +1,2 @@
-# Hello this is a simple fib function that generates  return 
-# nth term of fib by recursion
+# Hello this is a simple fib function that generates 
+nth term of fib by recursion
