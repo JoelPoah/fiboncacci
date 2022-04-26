@@ -1,6 +1,7 @@
 #this python program produces the fib of any arbitrary nth term 
 
-
+from functools import lru_cache
+@lru_cache(maxsize = 128)
 def fib(a):
     if(a<=2):
         return 1
